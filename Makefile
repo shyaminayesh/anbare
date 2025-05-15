@@ -9,4 +9,4 @@ install:
 
 
 invoke:
-	adb shell am start -n com.example/com.example.MainActivity
+	adb shell am start -n com.example.anbare/com.example.anbare.MainActivity
